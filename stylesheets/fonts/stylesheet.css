@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'RepublicBold';
+    src: url('republic_demibold.eot');
+    src: url('republic_demibold.eot?#iefix') format('embedded-opentype'),
+         url('republic_demibold.woff') format('woff'),
+         url('republic_demibold.ttf') format('truetype'),
+         url('republic_demibold.svg#MontrealDemiBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'RepublicMedium';
+    src: url('republic_medium.eot');
+    src: url('republic_medium.eot?#iefix') format('embedded-opentype'),
+         url('republic_medium.woff') format('woff'),
+         url('republic_medium.ttf') format('truetype'),
+         url('republic_medium.svg#MontrealMedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Republic';
+    src: url('republic_regular.eot');
+    src: url('republic_regular.eot?#iefix') format('embedded-opentype'),
+         url('republic_regular.woff') format('woff'),
+         url('republic_regular.ttf') format('truetype'),
+         url('republic_regular.svg#MontrealRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'RepublicLight';
+    src: url('republic_light.eot');
+    src: url('republic_light.eot?#iefix') format('embedded-opentype'),
+         url('republic_light.woff') format('woff'),
+         url('republic_light.ttf') format('truetype'),
+         url('republic_light.svg#MontrealXlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
